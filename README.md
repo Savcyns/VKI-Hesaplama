@@ -1,1 +1,1 @@
-# VKI-Hesaplay-c-s-
+# VKI-Hesaplayıcı
